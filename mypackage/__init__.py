@@ -1,0 +1,1 @@
+from mypackage.module1 import greet
